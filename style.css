@@ -78,7 +78,7 @@ h1 {
   font-size: calc(28vw + 1rem);
   font-weight: 400;
   line-height: 1;
-  background-image: url("https://johaansolo.github.io/Johaan/assets/tw-o.png"), url("https://johaansolo.github.io/Johaan/assets/tw6-o.png"), url("https://johaansolo.github.io/Johaan/assets/tw5-o.png");
+  background-image: url("https://johaansolo.github.io/Johaan/Assets/tw-o.png"), url("https://johaansolo.github.io/Johaan/Assets/tw6-o.png"), url("https://johaansolo.github.io/Johaan/Assets/tw5-o.png");
   background-size: 45vw auto, 45vw auto, 30vw auto;
   background-repeat: repeat-x;
   background-position: 0px 15%, 200px 25%, -50px 2vw;
